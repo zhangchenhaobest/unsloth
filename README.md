@@ -1,3 +1,29 @@
+# unsloth
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+本地运行与训练 LLM、扩散模型的 UI，支持 GGUF、MLX、Qwen、DeepSeek、Gemma、FLUX 等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center" style="margin:0;">
   <a href="https://unsloth.ai/docs"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png">
